@@ -60,8 +60,7 @@ An interactive dashboard was created to visualize:
 * Rent distribution by property type
 * Bedroom vs rent trends
 * Rent categories across cities
-
----
+![Dashboard Preview](UAE_RENTAL_DASHBOARD.png)
 
 ## Key Insights
 
