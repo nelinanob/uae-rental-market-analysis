@@ -62,6 +62,14 @@ An interactive dashboard was created to visualize:
 * Rent categories across cities
 ![Dashboard Preview](UAE_RENTAL_DASHBOARD.png)
 
+## Business Questions Explored
+
+- Which UAE cities have the highest rental prices?
+- How does rent scale with property size and number of bedrooms?
+- Which property types command premium pricing?
+- How much more expensive are furnished properties?
+- What segments dominate the UAE rental market?
+
 ## Key Insights
 
 * Dubai dominates the premium rental market.
