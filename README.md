@@ -54,6 +54,7 @@ Key analyses included:
 ### 4. Power BI Dashboard
 
 An interactive dashboard was created to visualize:
+<img width="1164" height="785" alt="image" src="https://github.com/user-attachments/assets/92da3d2a-0d58-4cfa-89c9-aab570d1be6f" />
 
 * Average rent by city
 * Rent per square foot by location
